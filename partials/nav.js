@@ -22,6 +22,10 @@ export default class Nav extends React.Component {
           <li>
             <Link href="/contact">Contact</Link>
           </li>
+          <li>
+            <Link href="/contact">test</Link>
+          </li>
+
         </ul>
       </nav>
     )
